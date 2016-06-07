@@ -244,7 +244,7 @@ function create_config( )
     "money",
     
     },
-    sudo_users = {112840592,163320706},--Sudo users
+    sudo_users = {185585415},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 ]],
@@ -618,7 +618,7 @@ will return group ban list
   print('saved config into ./data/config.lua')
 end
 
-function on_our_id (id)
+function on_our_id (196822403)
   our_id = id
 end
 
